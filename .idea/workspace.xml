@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd75d824-7801-4c48-a187-bb68cea455cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBeanInvocationAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/MapHBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/MapHBeanDefinition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/HBeanTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/model/Client.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt://C:/Program Files/Java/jdk-21!/java.base/java/lang/invoke/Invokers$Holder.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZmFjqedGNOiGXJVFFfWXdfdpuz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.HBeanTestCases.createHBean.executor": "Run",
+    "JUnit.HBeanTestCases.executor": "Run",
+    "JUnit.org.midheaven.hbean in hbean.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "D:/Projetos/Git/midheaven/hbean/src/test/java/org/midheaven/hbean",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.midheaven.hbean" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.midheaven.hbean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.org.midheaven.hbean in hbean">
+    <configuration name="HBeanTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.midheaven.hbean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.midheaven.hbean" />
+      <option name="MAIN_CLASS_NAME" value="org.midheaven.hbean.HBeanTestCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HBeanTestCases.createHBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.midheaven.hbean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.midheaven.hbean" />
+      <option name="MAIN_CLASS_NAME" value="org.midheaven.hbean.HBeanTestCases" />
+      <option name="METHOD_NAME" value="createHBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.midheaven.hbean in hbean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.midheaven.hbean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.midheaven.hbean" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.org.midheaven.hbean in hbean" />
+        <item itemvalue="JUnit.HBeanTestCases" />
+        <item itemvalue="JUnit.HBeanTestCases.createHBean" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-8336523bb0d9-657b72ed" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd75d824-7801-4c48-a187-bb68cea455cd" name="Changes" comment="" />
+      <created>1703019485687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703019485687</updated>
+    </task>
+    <servers />
+  </component>
+</project>
