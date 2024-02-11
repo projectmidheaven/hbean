@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd75d824-7801-4c48-a187-bb68cea455cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HBeanInvocationAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/HField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/MapHBean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/midheaven/hbean/MapHBeanDefinition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/HBeanTestCases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/model/Client.java" afterDir="false" />
+    <list default="true" id="bd75d824-7801-4c48-a187-bb68cea455cd" name="Changes" comment="- Create the HBean model and add tests">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/HBeanTestCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/midheaven/hbean/HBeanTestCases.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +59,7 @@
       <recent name="org.midheaven.hbean" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.org.midheaven.hbean in hbean">
+  <component name="RunManager" selected="JUnit.HBeanTestCases.jsonLikeMapHBean">
     <configuration name="HBeanTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hbean" />
       <extension name="coverage">
@@ -100,6 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HBeanTestCases.jsonLikeMapHBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hbean" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.midheaven.hbean.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.midheaven.hbean" />
+      <option name="MAIN_CLASS_NAME" value="org.midheaven.hbean.HBeanTestCases" />
+      <option name="METHOD_NAME" value="jsonLikeMapHBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="org.midheaven.hbean in hbean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hbean" />
       <extension name="coverage">
@@ -116,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HBeanTestCases.jsonLikeMapHBean" />
         <item itemvalue="JUnit.org.midheaven.hbean in hbean" />
         <item itemvalue="JUnit.HBeanTestCases" />
         <item itemvalue="JUnit.HBeanTestCases.createHBean" />
@@ -138,6 +146,19 @@
       <option name="presentableId" value="Default" />
       <updated>1703019485687</updated>
     </task>
+    <task id="LOCAL-00001" summary="- Create the HBean model and add tests">
+      <option name="closed" value="true" />
+      <created>1706902509803</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706902509803</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="- Create the HBean model and add tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Create the HBean model and add tests" />
   </component>
 </project>

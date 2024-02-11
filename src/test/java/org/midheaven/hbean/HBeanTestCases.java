@@ -3,6 +3,8 @@ package org.midheaven.hbean;
 import org.junit.jupiter.api.Test;
 import org.midheaven.hbean.model.Client;
 
+import java.util.Map;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -49,6 +51,18 @@ public class HBeanTestCases {
         assertEquals(42, client.getAge());
 
         assertEquals(3, client.sum(1,2));
+    }
+
+    @Test
+    public void jsonLikeMapHBean() {
+        Map<String, Object> json = Map.of("name", "John", "age", 23);
+        var bean = HBean.from(json);
+
+        assertEquals("John", bean.hField("name").getValue());
+        assertEquals(23, bean.hField("age").getValue());
+        assertEquals(null, bean.hField("non-existing-field").getValue());
+
+
     }
 
 }
